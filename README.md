@@ -2,12 +2,12 @@
 
 How to run
 
-to run the file, make sure you installed Python
-find the path of train-Spring2023preprocessed.txt and testpreprocessed.txt on your computer
-change the trainingfilepath and testfilepath in preprocessing.py and run it first 
-after new text file generated, find the path of train-Spring2023preprocessed.txt and testpreprocessed.txt and it should be in the same path
-copy it to the trainpreprocessedpath and testpreprocessedpath in nlp.py and run it
-output will print in the end
+1. to run the file, make sure you installed Python
+2. find the path of train-Spring2023preprocessed.txt and testpreprocessed.txt on your computer
+3. change the trainingfilepath and testfilepath in preprocessing.py and run it first 
+4. after new text file generated, find the path of train-Spring2023preprocessed.txt and testpreprocessed.txt and it should be in the same path
+5. copy it to the trainpreprocessedpath and testpreprocessedpath in nlp.py and run it
+6. output will print in the end
 
 1 LANGUAGE MODELING
 PART I:
